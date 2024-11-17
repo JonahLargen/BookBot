@@ -1,4 +1,6 @@
 # Book Bot
+<img src="bookbot.jpg" width="128" alt="Book Bot parsing a book">
+
 [boot.dev](https://boot.dev) Book Bot Project
 
 A python application that parses a book and prints its basic information. Book Bot prints a report of the total count of each character and the total number of words. The book content can be either a file path or text. Characters only count if they are alphabetic and their casing is ignored.
