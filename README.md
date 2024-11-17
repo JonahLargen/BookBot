@@ -43,4 +43,4 @@ Reading from raw text:
 &nbsp;
 
 > [!IMPORTANT]
-> The repository does not come with any books pre-installed! Download your own and place them in the "books" directory. You can download [Frankenstein](https://raw.githubusercontent.com/asweigart/codebreaker/master/frankenstein.txt) as a sample.
+> The repository does not come with any books pre-installed! It is recommended you download your own and place them in a "books" directory. You can download [Frankenstein](https://raw.githubusercontent.com/asweigart/codebreaker/master/frankenstein.txt) as a sample.
