@@ -3,7 +3,7 @@
 
 [boot.dev](https://boot.dev) Book Bot Project
 
-A python application that parses a book and prints its basic information. Book Bot prints a report of the total count of each character and the total number of words. The book content can be either a file path or text. Characters only count if they are alphabetic and their casing is ignored.
+A python application that parses a book and prints its basic information. Book Bot prints a report containing the total count of each character and the total number of words. The book content can be either a file path or text. Characters only count if they are alphabetic and their casing is ignored.
 
 ## Output
 
@@ -39,6 +39,8 @@ Reading from a file:
 Reading from raw text:
 
 `python3 bookbot.py -t "Hello, I am bookbot!"`
+
+&nbsp;
 
 > [!IMPORTANT]
 > The repository does not come with any books pre-installed! Download your own and place them in the "books" directory. You can download [Frankenstein](https://raw.githubusercontent.com/asweigart/codebreaker/master/frankenstein.txt) as a sample.
