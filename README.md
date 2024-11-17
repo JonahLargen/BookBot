@@ -3,7 +3,7 @@
 
 A python application that parses a book and prints its basic information. Book Bot prints a report of the total count of each character and the total number of words. The book content can be either a file path or text. Characters only count if they are alphabetic and their casing is ignored.
 
-##Output
+## Output
 
 ```
 --- Begin report of books/frankenstein.txt ---
@@ -28,7 +28,7 @@ options:
   -t, --text  Switch to using raw text instead of a file path
 ```
 
-## Usage
+## Examples
 
 Reading from a file:
 
