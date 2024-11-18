@@ -34,11 +34,15 @@ options:
 
 Reading from a file:
 
-`python3 bookbot.py "books/frankenstein.txt"`
+```
+python3 bookbot.py "books/frankenstein.txt"
+```
 
 Reading from raw text:
 
-`python3 bookbot.py -t "Hello, I am bookbot!"`
+```
+python3 bookbot.py -t "Hello, I am bookbot!"
+```
 
 &nbsp;
 
